@@ -1,0 +1,9 @@
+spring:
+  output:
+    ansi:
+      enabled: always
+logging:
+  level:
+    com:
+      mayezi: trace
+  file: F:/spring-boot.log
